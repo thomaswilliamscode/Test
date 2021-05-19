@@ -1,3 +1,6 @@
-p {
-  color: red;
+html{
+  background-color: rgb(42, 47, 54);
+}
+p, h1, h2, h3, h4, h5, h6{
+  color: rgb(209, 216, 227);
 }
