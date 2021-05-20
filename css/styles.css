@@ -1,7 +1,7 @@
 html{
   background-color: rgb(42, 47, 54);
 }
-p, h1, h2, h3, h4, h5, h6{
+p, h1, h2, h3, h4, h5, h6, li{
   color: rgb(209, 216, 227);
 }
 a{
@@ -24,4 +24,11 @@ a{
 .Top-nav a{
   text-decoration: none;
   padding-right: 3%;
+}
+.goals ul{
+  line-height: 30px;
+  text-indent: -5px;
+}
+.goals h1{
+  margin-left: 22px;
 }
