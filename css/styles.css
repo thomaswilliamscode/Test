@@ -4,3 +4,24 @@ html{
 p, h1, h2, h3, h4, h5, h6{
   color: rgb(209, 216, 227);
 }
+a{
+  color: rgb(111, 156, 227);
+}
+.logo{
+  display: inline-block;
+  width: 50%;
+}
+
+.logo img{
+  max-height: 40px;
+  max-width: 40px;
+}
+.Top-nav{
+  display: inline-block;
+  text-align: right;
+  width: 45%;
+}
+.Top-nav a{
+  text-decoration: none;
+  padding-right: 3%;
+}
